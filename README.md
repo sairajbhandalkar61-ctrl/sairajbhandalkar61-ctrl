@@ -1,135 +1,215 @@
 # 👋 Hi, I'm Sairaj Bhandalkar
 
-Aspiring Data Scientist | AI & Deep Learning Enthusiast |
-Python | SQL | Machine Learning | Data Analysis | EDA | Pandas | NumPy |
-Scikit-learn | Streamlit | Power BI | Building End-to-End ML & AI Projectsiast  
+### AI/ML Engineer | Machine Learning & NLP Enthusiast | Python Developer
 
-📍 Pune, India | Open to AI/ML Job Roles
-
----
-
-## 🧠 Professional Summary
-Motivated AI/ML fresher with hands-on experience in building end-to-end machine learning pipelines and real-time computer vision applications.  
-
-Proficient in Python, Machine Learning, Deep Learning, and Data Analysis with strong practical exposure to data preprocessing, feature engineering, and model evaluation.  
-
-Experienced in developing and deploying ML applications using Streamlit and Flask, and working with frameworks like Scikit-learn, TensorFlow, Keras, and PyTorch.  
-
-I enjoy solving real-world problems using data and continuously learning modern AI technologies.
+📍 Pune, Maharashtra, India
+📧 [sairajbhandalkar61@gmail.com](mailto:sairajbhandalkar61@gmail.com)
+📞 +91 8010088093
+💼 Open to AI/ML Engineer, Data Scientist & Python Developer Roles
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sairaj-bhandalkar-a572a3378/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sairajbhandalkar61-ctrl)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sairajbhandalkar61@gmail.com)
+# 🚀 About Me
+
+Aspiring AI/ML Engineer with hands-on experience in Machine Learning, Deep Learning, NLP, and Computer Vision using Python.
+
+Experienced in building end-to-end AI applications including:
+
+* Data Preprocessing
+* Feature Engineering
+* Model Training
+* Model Evaluation
+* Deployment
+
+Skilled in developing real-world AI solutions using Scikit-learn, TensorFlow, Keras, OpenCV, Flask, and Streamlit.
+
+Strong understanding of:
+
+* Regression & Classification
+* Clustering
+* ANN, CNN, RNN
+* NLP Pipelines
+* Conversational AI
+* Computer Vision
+
+Passionate about solving real-world problems using Artificial Intelligence and continuously learning modern technologies.
 
 ---
 
-## 💻 Tech Stack
+# 🌐 Connect With Me
 
-### 👨‍💻 Programming
-- Python, SQL  
+<p align="left">
+<a href="https://www.linkedin.com/in/sairaj-bhandalkar-a572a3378/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-### 🤖 AI / ML
-- Machine Learning, Deep Learning  
-- Regression, Classification, Clustering  
-- Neural Networks, Cross Validation  
+<a href="https://github.com/sairajbhandalkar61-ctrl" target="blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
 
-### 🧰 Frameworks & Libraries
-- Scikit-learn, TensorFlow, Keras, PyTorch (Basics)  
-
-### 📊 Data Analysis
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Power BI, Excel  
-
-### 🚀 Tools & Deployment
-- Streamlit, Flask  
-- OpenCV (Computer Vision)  
-- Git, GitHub  
-
-### 📚 Core Concepts
-- Statistics  
-- Data Structures & Algorithms  
-- DBMS  
+<a href="mailto:sairajbhandalkar61@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
 ---
 
-## 💼 Experience
-**Data Science Trainee – SevenMentor Pvt Ltd (2025–Present)**  
+# 💻 Tech Stack
 
-- Designed and deployed end-to-end ML pipelines (EDA → Feature Engineering → Model → Evaluation)  
-- Improved model performance using cross-validation and hyperparameter tuning  
-- Applied Regression, KNN, and K-Means clustering on real datasets  
-- Built real-time AI & computer vision applications using OpenCV  
-- Deployed ML apps using Streamlit and Flask  
-- Performed data analysis and visualization using Pandas, Power BI, and Excel  
+## 👨‍💻 Programming Languages
 
----
+* Python
+* SQL
 
-## 📂 Featured Projects
+## 🤖 Machine Learning & Deep Learning
 
-### 🔹 Smart AI Monitoring System
-- Real-time crowd monitoring using OpenCV  
-- Decision Tree model for activity detection  
-- Automated alert dashboard  
-- Reduced manual monitoring effort  
+* Machine Learning
+* Deep Learning
+* Regression
+* Classification
+* Clustering
+* Feature Engineering
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Cross Validation
+* Model Evaluation
+* ANN, CNN, RNN
 
-### 🔹 Mall Customer Segmentation
-- K-Means clustering using Elbow Method  
-- Customer segmentation for business insights  
-- Improved marketing and decision-making  
+## 📚 NLP & Conversational AI
 
-### 🔹 Additional Projects
-- House Price Prediction (ML Model)  
-- AI-based Instagram Reel Generator  
-- Data Analysis Dashboards  
+* Natural Language Processing (NLP)
+* Text Preprocessing
+* TF-IDF Vectorization
+* Intent Classification
+* Chatbot Development
+* Conversational AI
 
----
+## 🧰 Libraries & Frameworks
 
-## 🎓 Education
-🎓 Bachelor of Computer Applications (BCA)  
-Adarsh Mahavidyalaya, Vita  
-CGPA: 7.6 / 10  
+* NumPy
+* Pandas
+* Scikit-learn
+* TensorFlow
+* Keras
+* PyTorch (Basics)
+* OpenCV
+* Flask
+* Streamlit
+* Matplotlib
+* Seaborn
 
----
+## 🚀 Tools & Platforms
 
-## 🏆 Certifications
-
-- Machine Learning – IIT Bombay  
-- Python Programming – IIT Bombay  
-- MySQL – IIT Bombay  
-- Power BI – IIT Bombay  
-- Complete Python Bootcamp (2025)  
-- SQL (Basic) Certification  
-- Machine Learning Certification  
-- Data Analysis Certification  
-- AI Fundamentals Certification  
-- Additional Training – SevenMentor  
-
----
-
-## 🌍 Languages
-- English  
-- Hindi  
-- Marathi  
+* Jupyter Notebook
+* Google Colab
+* VS Code
+* Git & GitHub
+* Power BI
+* Excel
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sairajbhandalkar61-ctrl&show_icons=true&theme=tokyonight)
+# 💼 Experience
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sairajbhandalkar61-ctrl&theme=tokyonight)
+## AI/ML Engineer Trainee — SevenMentor Pvt. Ltd.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sairajbhandalkar61-ctrl&layout=compact&theme=tokyonight)
+📍 Pune | 2025 – Present
+
+* Developed machine learning models using regression, classification, and clustering techniques
+* Performed data preprocessing, feature engineering, and exploratory data analysis (EDA)
+* Designed and trained deep learning models using TensorFlow and Keras
+* Applied cross-validation and performance metrics to improve model accuracy
+* Built and deployed ML applications using Streamlit and Flask
+* Managed project version control using Git and GitHub
 
 ---
 
-## 🚀 Career Objective
-To leverage AI, Machine Learning, and Data Science skills to solve real-world problems and contribute to impactful projects while continuously growing as a Data Scientist.
+# 📂 Featured Projects
+
+## 🔹 AI-Powered College Assistant Chatbot
+
+### Tech Stack:
+
+Python | Flask | Scikit-learn | NLP | HTML | CSS
+
+* Developed an AI-powered chatbot for automated student query handling
+* Implemented text preprocessing, TF-IDF vectorization, and intent classification
+* Built a web-based chatbot interface using Flask backend integration
+* Trained ML models for conversational query prediction and intelligent responses
+* Improved user interaction through automated conversational support
 
 ---
 
-## ✨ Quote
-_"Turning Data into Insights and Ideas into AI Solutions"_ 🚀
+## 🔹 Smart AI Monitoring System
+
+### Tech Stack:
+
+Python | OpenCV | Deep Learning | ANN
+
+* Developed a real-time AI-powered monitoring system using OpenCV
+* Implemented crowd activity detection and automated monitoring
+* Applied image processing and ANN-based models for alert generation
+* Improved surveillance efficiency through automated AI monitoring
+
+---
+
+## 🔹 Additional Projects
+
+* House Price Prediction System
+* AI-Based Instagram Reel Generator
+* Data Analysis Dashboards
+* ML Prediction Applications using Streamlit
+
+---
+
+# 🎓 Education
+
+## Bachelor of Computer Applications (BCA)
+
+Adarsh Mahavidyalaya, Vita
+
+🎓 CGPA: 7.6 / 10
+
+---
+
+# 🏆 Certifications
+
+* Machine Learning — IIT Bombay
+* Python Programming — IIT Bombay
+* MySQL — IIT Bombay
+* Artificial Intelligence Certification
+* Power BI Certification
+* Statistics for Data Science
+* Complete Python Bootcamp (2025)
+* Additional AI/ML Training — SevenMentor Pvt. Ltd.
+
+---
+
+# 🌍 Languages
+
+* English
+* Hindi
+* Marathi
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sairajbhandalkar61-ctrl\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sairajbhandalkar61-ctrl\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sairajbhandalkar61-ctrl\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🚀 Career Objective
+
+To leverage my AI, Machine Learning, Deep Learning, and NLP skills to build impactful AI solutions while continuously growing as an AI/ML Engineer and Data Scientist.
+
+---
+
+# ✨ Quote
+
+> "Turning Data into Insights and Ideas into AI Solutions." 🚀
+
